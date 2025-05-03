@@ -10,14 +10,17 @@ Features of This Site:
 
 Installation Guide:
 1. Initialize the project - npm init
-2. Install required packages - npm install firebase
-                               npm install -g firebase-tools
-3. Login to Firebase
-4. Initialize Firebase in your project - firebase init
-5. Configure Firebase in your app - Go to Firebase Console(https://console.firebase.google.com/)
-                                    Create a project
-                                    Copy your Firebase config and paste it inside your firebase.js file
+2. Install required packages -
+   npm install firebase
+   npm install -g firebase-tools
+4. Login to Firebase
+5. Initialize Firebase in your project - firebase init
+6. Configure Firebase in your app -
+   Go to Firebase Console(https://console.firebase.google.com/)
+   Create a project
+   Copy your Firebase config and paste it inside your firebase.js file
 
 
-Run the Website Locally: npm start
-                         http://localhost:3000/
+Run the Website Locally:
+npm start
+http://localhost:3000/
