@@ -24,3 +24,5 @@ Copy your Firebase config and paste it inside your firebase.js file
 Run the Website Locally: 
 On Terminal - npm start ,
 On Broweser - http://localhost:3000/
+
+![Screenshot 2025-05-03 094936](https://github.com/user-attachments/assets/710780d1-3bfc-4283-9455-5f64a94dacbf)
